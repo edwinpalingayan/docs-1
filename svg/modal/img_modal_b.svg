@@ -1,0 +1,98 @@
+<svg id="グループ_9" data-name="グループ 9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="247" height="64" viewBox="0 0 247 64">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+        stroke: #424c55;
+        stroke-width: 1px;
+      }
+
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        fill: #424c55;
+      }
+
+      .cls-2, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        filter: url(#filter-2);
+      }
+
+      .cls-4, .cls-6 {
+        fill: #d1ebe9;
+      }
+
+      .cls-5 {
+        fill: #00aaa0;
+      }
+    </style>
+    <filter id="filter" x="94" y="9" width="68" height="53" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="2.237" dy="3.316" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-color="#bdbdbd" flood-opacity="0.5"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="-3" y="9" width="67" height="53" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="2.237" dy="3.316" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-color="#bdbdbd" flood-opacity="0.5"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="グループ_12" data-name="グループ 12">
+    <g id="グループ_13" data-name="グループ 13">
+      <g style="fill: #fff; filter: url(#filter)">
+        <rect id="角丸長方形_545" data-name="角丸長方形 545" class="cls-1" x="97.969" y="11.563" width="55.187" height="40.875" rx="4" ry="4" style="stroke: inherit; filter: none; fill: inherit"/>
+      </g>
+      <use xlink:href="#角丸長方形_545" style="stroke: #424c55; filter: none; fill: none"/>
+      <path id="多角形_1" data-name="多角形 1" class="cls-2" d="M135.358,32l-7.124,5.334V26.666Z"/>
+      <path id="シェイプ_2" data-name="シェイプ 2" class="cls-2" d="M130.015,31.111v1.778H115.766V31.111h14.249Z"/>
+      <g style="fill: #fff; filter: url(#filter-2)">
+        <rect id="角丸長方形_545_のコピー_2" data-name="角丸長方形 545 のコピー 2" class="cls-3" y="11.563" width="55.219" height="40.875" rx="4" ry="4" style="stroke: inherit; filter: none; fill: inherit"/>
+      </g>
+      <use xlink:href="#角丸長方形_545_のコピー_2" style="stroke: #424c55; filter: none; fill: none"/>
+      <path id="シェイプ_3" data-name="シェイプ 3" class="cls-2" d="M17.81,25.127l19.591-2.9V41.778L17.908,39.067Z"/>
+      <image id="シェイプ_4" data-name="シェイプ 4" x="18" y="23" width="20" height="18" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAQAAADx2TabAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfhAhcRMyfqR0fdAAAAbElEQVQoz2P4z4AGN/+fiCHG8J+BhQEdSDJ8YsACmDBEPjJ8IU4hDjCoFH5heIdNIQvDZAYOFBETBjUGEQx1P1gYeBk40bSyMvBhKGTFjION/9uxxQymG3kYhAZ9OBKtkJ+BhziFzxneYFMIAGBtM4xxB4CDAAAAAElFTkSuQmCC"/>
+      <ellipse id="楕円形_1_のコピー" data-name="楕円形 1 のコピー" class="cls-4" cx="211.938" cy="32" rx="32.063" ry="32"/>
+      <rect id="長方形_15_のコピー" data-name="長方形 15 のコピー" class="cls-5" x="212.5" y="18.125" width="14.312" height="17.375"/>
+      <image id="ノートパソコンのアイコン素材4_のコピー" data-name="ノートパソコンのアイコン素材4 のコピー" x="192" y="16" width="40" height="31" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAfCAQAAAA/iEfzAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfhAhcRMyfqR0fdAAAA70lEQVRIx+3VMUvDQBjG8f8lodBRqASkm90cX/d+hKJTpy5S3OXwQ0h2Kd38Eq5uLrmxi+hWKKXZMrR00cGrjdBmyB2d7pnyhocf702vAgDRaFKaZ0lmMgAFIJd8OmC79MwXRABceeCskgA7FqOaSfK9VyIvu1USwAAGMICnAZPqIG++wLWd+k7Wev/knNJ5tZIc7JECueaecwduxcTkzksdyt9Zkg5dB2duin+gjJjScgC3jM0LQAwgDzz/fjVOzM1FuXgHJYondE31g9fKlDKs6WY8Jky5q6lsuDWz6g9pMzja1pwpe/W9JaLw6hU/IAMrvVHk3nQAAAAASUVORK5CYII="/>
+      <path id="多角形_2_のコピー" data-name="多角形 2 のコピー" class="cls-6" d="M170.977,32.445L186.116,24V40.889Z"/>
+    </g>
+  </g>
+  <image id="シェイプ_5_のコピー" data-name="シェイプ 5 のコピー" x="70" y="24" width="16" height="16" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAgMAAABinRfyAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACVBMVEX///9CTFUAAABdEUjiAAAAAXRSTlMAQObYZgAAAAFiS0dEAmYLfGQAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfhAhcRMyfqR0fdAAAAFklEQVQI12NgYHRgYMBPhAIBhCCsGAD3BwY31rRkxgAAAABJRU5ErkJggg=="/>
+</svg>
